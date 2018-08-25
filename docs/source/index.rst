@@ -7,6 +7,12 @@ Welcome to daiwk-demo's documentation!
 ====================================
 
 .. toctree::
+   :maxdepth: 4
+   :caption: Introduction
+
+   introduction
+
+.. toctree::
    :maxdepth: 1
    :caption: API docs
 
