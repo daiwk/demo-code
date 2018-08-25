@@ -15,14 +15,12 @@
 import sphinx_rtd_theme
 import os
 import sys
-sys.path.insert(0, os.path.abspath('./../../framework'))
-sys.path.insert(0, os.path.abspath('./../../'))
-sys.path.insert(0, os.path.abspath('./../../framework/tools'))
+sys.path.insert(0, os.path.abspath('./../../demo'))
 
 
 # -- Project information -----------------------------------------------------
 
-project = 'daiwk-gt'
+project = 'demo'
 copyright = '2018, daiwk'
 author = 'daiwk'
 
@@ -113,7 +111,7 @@ html_static_path = ['_static']
 # -- Options for HTMLHelp output ---------------------------------------------
 
 # Output file base name for HTML help builder.
-htmlhelp_basename = 'daiwk-gtdoc'
+htmlhelp_basename = 'daiwk-demodoc'
 
 
 # -- Options for LaTeX output ------------------------------------------------
@@ -140,7 +138,7 @@ latex_elements = {
 # (source start file, target name, title,
 #  author, documentclass [howto, manual, or own class]).
 latex_documents = [
-    (master_doc, 'daiwk-gt.tex', 'daiwk-gt Documentation',
+    (master_doc, 'daiwk-demo.tex', 'daiwk-demo Documentation',
      'daiwk', 'manual'),
 ]
 
@@ -150,7 +148,7 @@ latex_documents = [
 # One entry per manual page. List of tuples
 # (source start file, name, description, authors, manual section).
 man_pages = [
-    (master_doc, 'daiwk-gt', 'daiwk-gt Documentation',
+    (master_doc, 'daiwk-demo', 'daiwk-demo Documentation',
      [author], 1)
 ]
 
@@ -161,8 +159,8 @@ man_pages = [
 # (source start file, target name, title, author,
 #  dir menu entry, description, category)
 texinfo_documents = [
-    (master_doc, 'daiwk-gt', 'daiwk-gt Documentation',
-     author, 'daiwk-gt', 'One line description of project.',
+    (master_doc, 'daiwk-demo', 'daiwk-demo Documentation',
+     author, 'daiwk-demo', 'One line description of project.',
      'Miscellaneous'),
 ]
 

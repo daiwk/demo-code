@@ -1,2 +1,1 @@
-#sphinx-apidoc -o ./source ../framework/tools -f
-sphinx-apidoc -o ./source ../framework -f
+sphinx-apidoc -o ./source ../demo -f

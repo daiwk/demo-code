@@ -1,7 +1,7 @@
-framework
-=========
+demo
+====
 
 .. toctree::
    :maxdepth: 4
 
-   framework
+   demo

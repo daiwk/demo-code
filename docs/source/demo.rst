@@ -1,20 +1,20 @@
-framework package
-=================
+demo package
+============
 
 Subpackages
 -----------
 
 .. toctree::
 
-    framework.tools
+    demo.tools
 
 Submodules
 ----------
 
-framework.demo1 module
-----------------------
+demo.demo1 module
+-----------------
 
-.. automodule:: framework.demo1
+.. automodule:: demo.demo1
     :members:
     :undoc-members:
     :show-inheritance:
@@ -23,7 +23,7 @@ framework.demo1 module
 Module contents
 ---------------
 
-.. automodule:: framework
+.. automodule:: demo
     :members:
     :undoc-members:
     :show-inheritance:
