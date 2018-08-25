@@ -7,12 +7,8 @@ Welcome to daiwk-demo's documentation!
 ====================================
 
 .. toctree::
-   :maxdepth: 2
-   :caption: Contents:
-
-.. toctree::
    :maxdepth: 1
-   :caption: xxx:
+   :caption: API docs
 
    modules
 
