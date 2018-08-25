@@ -1,1 +1,1 @@
-sphinx-apidoc -o ./source ../demo -f
+sphinx-apidoc -o ./source ../demo/ -f

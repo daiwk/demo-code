@@ -1,20 +1,13 @@
-demo package
-============
-
-Subpackages
------------
-
-.. toctree::
-
-    demo.tools
+models package
+==============
 
 Submodules
 ----------
 
-demo.demo1 module
------------------
+models.demo2 module
+-------------------
 
-.. automodule:: demo.demo1
+.. automodule:: models.demo2
     :members:
     :undoc-members:
     :show-inheritance:
@@ -23,7 +16,7 @@ demo.demo1 module
 Module contents
 ---------------
 
-.. automodule:: demo
+.. automodule:: models
     :members:
     :undoc-members:
     :show-inheritance:
