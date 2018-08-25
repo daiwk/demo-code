@@ -1,8 +1,7 @@
-demo
-====
+python
+======
 
 .. toctree::
    :maxdepth: 4
 
-   models
-   tools
+   demo

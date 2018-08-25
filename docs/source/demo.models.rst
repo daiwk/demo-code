@@ -1,13 +1,13 @@
-models package
-==============
+demo.models package
+===================
 
 Submodules
 ----------
 
-models.demo1 module
--------------------
+demo.models.demo1 module
+------------------------
 
-.. automodule:: models.demo1
+.. automodule:: demo.models.demo1
     :members:
     :undoc-members:
     :show-inheritance:
@@ -16,7 +16,7 @@ models.demo1 module
 Module contents
 ---------------
 
-.. automodule:: models
+.. automodule:: demo.models
     :members:
     :undoc-members:
     :show-inheritance:

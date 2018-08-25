@@ -1,13 +1,13 @@
-tools package
-=============
+demo.tools package
+==================
 
 Submodules
 ----------
 
-tools.demo2 module
-------------------
+demo.tools.demo2 module
+-----------------------
 
-.. automodule:: tools.demo2
+.. automodule:: demo.tools.demo2
     :members:
     :undoc-members:
     :show-inheritance:
@@ -16,7 +16,7 @@ tools.demo2 module
 Module contents
 ---------------
 
-.. automodule:: tools
+.. automodule:: demo.tools
     :members:
     :undoc-members:
     :show-inheritance:
