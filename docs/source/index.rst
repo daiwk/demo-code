@@ -15,7 +15,6 @@ Welcome to daiwk-gt's documentation!
    :caption: xxx:
 
    modules.rst
-   framework.models.rst
 
 
 Indices and tables
