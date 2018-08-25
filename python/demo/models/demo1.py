@@ -7,6 +7,12 @@ class Demo1:
     '''
     demo1 iii
     '''
+    def __init__(self, x):
+        '''
+        __init__
+        '''
+        pass
+
     def get(v):
         '''
         get
