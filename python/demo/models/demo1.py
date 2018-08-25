@@ -18,3 +18,9 @@ class Demo1:
         get
         '''
         return v
+
+def func_test(a,b):
+    '''
+    bbbb
+    '''
+    return 0
