@@ -4,10 +4,10 @@ models package
 Submodules
 ----------
 
-models.demo2 module
+models.demo1 module
 -------------------
 
-.. automodule:: models.demo2
+.. automodule:: models.demo1
     :members:
     :undoc-members:
     :show-inheritance:
