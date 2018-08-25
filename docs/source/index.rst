@@ -14,8 +14,7 @@ Welcome to daiwk-gt's documentation!
    :maxdepth: 1
    :caption: xxx:
 
-   modules.rst
-
+   modules
 
 Indices and tables
 ==================

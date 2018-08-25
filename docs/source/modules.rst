@@ -1,7 +1,7 @@
-tools
-=====
+framework
+=========
 
 .. toctree::
    :maxdepth: 4
 
-   tools
+   framework
